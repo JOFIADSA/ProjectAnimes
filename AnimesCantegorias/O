@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:0,ONE PIECE: LEGENDADO
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE: EP1" tvg-logo="https://www.ecopetit.cat/wpic/mpic/45-457819_4k-anime-one-piece.jpg" group-title="ONE PIECE",ONE PIECE: EP1
+#EXTINF:-1 tvg-id="ONE PIECE: EP1" tvg-name="ONE PIECE: EP1" tvg-logo="https://www.ecopetit.cat/wpic/mpic/45-457819_4k-anime-one-piece.jpg" group-title="ONE PIECE",ONE PIECE: EP1
 https://animeslog.com/aHR0cHM6Ly9lbHJhdG9zLmJsb2dzcG90LmNvbS8yMDE5LzExL29uZS1waWVjZS0wMS0xMDAuaHRtbA==/0/bg.mp4
