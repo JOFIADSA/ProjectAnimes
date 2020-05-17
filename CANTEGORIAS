@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[/COLOR] [COLOR pink].::[/COLOR][COLOR silver]ANIMES FRONTIER - MULTIMEDIA DE ANIMES[/COLOR][COLOR pink]::.[/COLOR]</name>
+<name>[/COLOR] [COLOR pink].::[/COLOR][COLOR silver]ANIME FRONTIER - MULTIMEDIA DE ANIMES[/COLOR][COLOR pink]::.[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]0.A.9[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]0.A.9[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/0.A.9.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
@@ -20,9 +20,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]A[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]A[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/A.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -30,20 +30,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]B[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]B[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
-<info>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]C[/COLOR]</name>
-<thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/B.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -52,9 +41,20 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]D[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]C[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/C.txt</externallink>
+<fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]D[/COLOR]</name>
+<thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/D.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -62,9 +62,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]E[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]E[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/E.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -72,9 +72,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]F[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]F[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/F.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -82,9 +82,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]G[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]G[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/G.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -92,9 +92,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]H[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]H[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/H.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -102,9 +102,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]I[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]I[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/I.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -112,9 +112,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]J[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]J[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/J.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -122,9 +122,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]K[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]K[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/K.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -132,9 +132,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]L[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]L[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/L.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -142,9 +142,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]M[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]M[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/M.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -152,9 +152,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]N[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]N[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/N.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -162,9 +162,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]O[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]O[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/O.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -172,9 +172,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]P[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]P[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/P.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -182,9 +182,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]Q[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]Q[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/Q.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -192,9 +192,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]R[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]R[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/R.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -202,9 +202,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]S[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]S[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/S.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -212,9 +212,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]T[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]T[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/T.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -222,9 +222,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]U[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]U[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/U.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -232,9 +232,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]V[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]V[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/V.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -242,9 +242,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]W[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]W[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/W.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -252,9 +252,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]X[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]X[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/X.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -262,9 +262,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]Y[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]Y[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/Y.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
@@ -272,9 +272,9 @@
 
 <channels>
 <channel>
-<name>[COLOR pink]ANIMES FRONTIER[/COLOR] [COLOR silver]Z[/COLOR]</name>
+<name>[COLOR pink]ANIME FRONTIER[/COLOR] [COLOR silver]Z[/COLOR]</name>
 <thumbnail>https://i.imgur.com/rck16Np.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/JOFIADSA/ProjectAnimes/master/AnimesCantegorias/Z.txt</externallink>
 <fanart>https://i.imgur.com/RF7Oh9S.jpg</fanart>
 <info>
 
