@@ -1,4 +1,14 @@
-#EXTM3U
-#EXTINF:0,*****BEIN_MOVIES*****
-#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="LINK DA IMAGEN" group-title="NOME DO GRUPO",NOME
-"URL"
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+MODELO UNIVERSAL
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title></<title>
+<link>URL AQUI$$lsname=[COLOR silver]AN[/COLOR][COLOR red]I[/COLOR][COLOR silver]MES FRONTIER[/COLOR] - LINK 3</link>
+<link>URL AQUI$$lsname=[COLOR silver]AN[/COLOR][COLOR red]I[/COLOR][COLOR silver]MES FRONTIER[/COLOR] - LINK 3</link>
+<link>URL AQUI$$lsname=[COLOR silver]AN[/COLOR][COLOR red]I[/COLOR][COLOR silver]MES FRONTIER[/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</link>
+
